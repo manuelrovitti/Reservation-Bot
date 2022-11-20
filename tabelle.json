@@ -1,0 +1,1169 @@
+{
+    "orario_1": [
+        {
+            "id": 0,
+            "Nome": " Analisi Matematica 1 ",
+            "orario": " Martedi' 9-11, Giovedi' 9-11, Venerdi' 9-11 ",
+            "aula": " I1 ",
+            "posti": 30
+        },
+        {
+            "id": 1,
+            "Nome": " Matematica Discreta 1 ",
+            "orario": " Mercoledi' 14-16, Giovedi' 14-16 ",
+            "aula": " I1 ",
+            "posti": 30
+        },
+        {
+            "id": 2,
+            "Nome": " Programmazione 1 ",
+            "orario": " Martedi' 14-16, Mercoledi' 9-11, Giovedi' 11-13, Venerdi' 11-13 ",
+            "aula": " I1 ",
+            "posti": 30
+        },
+        {
+            "id": 3,
+            "Nome": " Logica e Reti Logiche ",
+            "orario": " Martedi' 11-13, Mercoledi' 11-13 ",
+            "aula": " I1 ",
+            "posti": 30
+        }
+    ],
+    "orario_2": [
+        {
+            "id": 4,
+            "Nome": " Algoritmi e Strutture Dati ",
+            "orario": " Lunedi' 14-16, Martedi' 9-11 e 14-17, Mercoledi' 9-11 ",
+            "aula": " A2 ",
+            "posti": 30
+        },
+        {
+            "id": 5,
+            "Nome": " Calcolo delle probabilita' ",
+            "orario": " Mercoledi' 11-13, Giovedi' 11-13 ",
+            "aula": " A2 ",
+            "posti": 30
+        },
+        {
+            "id": 6,
+            "Nome": " Calcolo Numerico ",
+            "orario": " Lunedi' 11-13, Martedi' 11-13 ",
+            "aula": " A2 ",
+            "posti": 30
+        }
+    ],
+    "orario_3": [
+        {
+            "id": 7,
+            "Nome": " Architettura Reti ",
+            "orario": " Martedi' 9-11, Venerdi' 11-13 ",
+            "aula": " A0 ",
+            "posti": 30
+        },
+        {
+            "id": 8,
+            "Nome": " Base di Dati ",
+            "orario": " Lunedi' 11-13, Mercoledi' 14-16, Giovedi' 14-18 ",
+            "aula": " A0 ",
+            "posti": 30
+        }
+    ],
+    "Analisi Matematica 1": [
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        }
+    ],
+    "Matematica Discreta 1": [
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        }
+    ],
+    "Programmazione 1": [
+        {
+            "Nome": "vuoto",
+            "posto": 1
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        }
+    ],
+    "Logica e Reti Logiche": [
+        {
+            "Nome": "vuoto",
+            "posto": 1
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        }
+    ],
+    "Algoritmi e Struttura Dati": [
+        {
+            "Nome": "vuoto",
+            "posto": 1
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        }
+    ],
+    "Calcolo delle Probabilita'": [
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        }
+    ],
+    "Calcolo Numerico": [
+        {
+            "Nome": "vuoto",
+            "posto": 1
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        }
+    ],
+    "Archittetura Reti": [
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        }
+    ],
+    "Base di Dati": [
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        },
+        {
+            "Nome": "vuoto",
+            "posto": 100
+        }
+    ]
+}
